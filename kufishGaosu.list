@@ -23,3 +23,11 @@ DOMAIN-SUFFIX,lalal.ai
 # 待定
 DOMAIN-SUFFIX,mmcdn.com
 DOMAIN-SUFFIX,highwebmedia.com
+
+# trust钱包
+DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,twnodes.com
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,ninerealms.com
