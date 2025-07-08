@@ -23,8 +23,9 @@ DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,vimeo.com
-
-
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,ynhf1jp.com
+DOMAIN-SUFFIX,transcend-cdn.com
 
 # 待定
 DOMAIN-SUFFIX,mmcdn.com
