@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,stkouyu.com
 DOMAIN-SUFFIX,ready.co
 DOMAIN-SUFFIX,polygonscan.com
+IP-CIDR,149.154.167.0/24,no-resolve
 
 # 待定
 DOMAIN-SUFFIX,mmcdn.com
