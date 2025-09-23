@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,stkouyu.com
 DOMAIN-SUFFIX,ready.co
 DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,sdifen.com
 IP-CIDR,5.28.195.0/24,no-resolve
 
 # 待定
