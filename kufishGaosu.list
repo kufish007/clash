@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,ready.co
 DOMAIN-SUFFIX,polygonscan.com
 DOMAIN-SUFFIX,sdifen.com
 IP-CIDR,5.28.195.0/24,no-resolve
+DOMAIN-SUFFIX,discord.com
 
 # 待定
 DOMAIN-SUFFIX,mmcdn.com
