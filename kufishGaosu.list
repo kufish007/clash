@@ -44,6 +44,7 @@ IP-CIDR,5.28.195.0/24,no-resolve
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,pulsz.tv
+DOMAIN-SUFFIX,hyperliquid.xyz
 
 # 待定
 DOMAIN-SUFFIX,mmcdn.com
